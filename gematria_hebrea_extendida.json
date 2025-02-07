@@ -1,0 +1,318 @@
+[
+  {
+    "numero": 1,
+    "valorGematrico": 1,
+    "letra": "א",
+    "transliteracion": "Álef, Alph",
+    "nombreEspanol": "Álef",
+    "significados": [
+      "Diferencia entre exilio y Redención",
+      "Multiplicar, Amo, Maestro, maravilla"
+    ],
+    "notas": "Un punto arriba y una línea entre ellos. Representa los sonidos a, e, i."
+  },
+  {
+    "numero": 2,
+    "valorGematrico": 2,
+    "letra": "ב",
+    "transliteracion": "Bet, Bét",
+    "nombreEspanol": "Bet",
+    "significados": [
+      "Creación",
+      "Casa",
+      "Hogar",
+      "Dualidad"
+    ],
+    "notas": "Una línea vertical y dos horizontales correspondientes a las direcciones este, sur y oeste."
+  },
+  {
+    "numero": 3,
+    "valorGematrico": 3,
+    "letra": "ג",
+    "transliteracion": "Guímel, Gimel",
+    "nombreEspanol": "Guímel",
+    "significados": [
+      "Caridad",
+      "Completar",
+      "Nutrir",
+      "Destetar",
+      "Camello",
+      "Puente"
+    ],
+    "notas": "Representa al hombre rico corriendo hacia el pobre."
+  },
+  {
+    "numero": 4,
+    "valorGematrico": 4,
+    "letra": "ד",
+    "transliteracion": "Dálet, Daled",
+    "nombreEspanol": "Dálet",
+    "significados": [
+      "Pesaj",
+      "Dependencia",
+      "Pobre",
+      "Puerta",
+      "Alzar"
+    ],
+    "notas": "Pata extendida hacia la guímel, simboliza jamba de puerta y dintel."
+  },
+  {
+    "numero": 5,
+    "valorGematrico": 5,
+    "letra": "ה",
+    "transliteracion": "Hei, Héi",
+    "nombreEspanol": "Hei",
+    "significados": [
+      "La acción",
+      "Adón",
+      "Aquí está",
+      "Estar perturbado",
+      "Contemplar"
+    ],
+    "notas": "El ancho y alto de la dálet más la iud refieren a espiritualidad, pensamiento, habla y acción."
+  },
+  {
+    "numero": 6,
+    "valorGematrico": 6,
+    "letra": "ו",
+    "transliteracion": "Vav, Vau",
+    "nombreEspanol": "Vav",
+    "significados": [
+      "Conexión",
+      "Sujetar",
+      "Gancho",
+      "La palabra «y» que transforma el pasado en futuro y viceversa"
+    ],
+    "notas": "Representa un gancho o canal. A veces se asocia con los sonidos v, o, u."
+  },
+  {
+    "numero": 7,
+    "valorGematrico": 7,
+    "letra": "ז",
+    "transliteracion": "Zain, Zayin",
+    "nombreEspanol": "Zayin",
+    "significados": [
+      "Shabat",
+      "La corona de la creación",
+      "Escuchar",
+      "Corona",
+      "Arma",
+      "Mantener en alto"
+    ],
+    "notas": "Simboliza espada, corona y cetro."
+  },
+  {
+    "numero": 8,
+    "valorGematrico": 8,
+    "letra": "ח",
+    "transliteracion": "Jét, Het, Chet",
+    "nombreEspanol": "Jet",
+    "significados": [
+      "Matrimonio",
+      "Temor",
+      "Vida"
+    ],
+    "notas": "Se forma con vav y zayin unidos por un puente."
+  },
+  {
+    "numero": 9,
+    "valorGematrico": 9,
+    "letra": "ט",
+    "transliteracion": "Tét, Teth",
+    "nombreEspanol": "Tet",
+    "significados": [
+      "Esto también es para bien",
+      "Diseño",
+      "Bueno",
+      "Óptimo"
+    ],
+    "notas": "Recipiente con tapa curvada, inclinación de la cabeza en oración."
+  },
+  {
+    "numero": 10,
+    "valorGematrico": 10,
+    "letra": "י",
+    "transliteracion": "Iúd, Yod",
+    "nombreEspanol": "Yod",
+    "significados": [
+      "El décimo será santificado",
+      "Dirigir",
+      "Judío",
+      "Mano de Elohím",
+      "Continuidad"
+    ],
+    "notas": "Se ve como un simple punto y llama."
+  },
+  {
+    "numero": 11,
+    "valorGematrico": 20,
+    "letra": "כ",
+    "transliteracion": "Kaf, Jaf",
+    "nombreEspanol": "Kaf",
+    "significados": [
+      "Reino",
+      "Inclinar",
+      "Corona"
+    ],
+    "notas": "Tubo curvado, sumisión a Elohím. Forma sofit: ך."
+  },
+  {
+    "numero": 12,
+    "valorGematrico": 30,
+    "letra": "ל",
+    "transliteracion": "Lámed, Lamed",
+    "nombreEspanol": "Lámed",
+    "significados": [
+      "Maestros y Alumnos",
+      "Aprender",
+      "Enseñar"
+    ],
+    "notas": "Su forma combina kaf y vav."
+  },
+  {
+    "numero": 13,
+    "valorGematrico": 40,
+    "letra": "מ",
+    "transliteracion": "Mem, Mém",
+    "nombreEspanol": "Mem",
+    "significados": [
+      "Metamorfosis",
+      "Fluir",
+      "Agua",
+      "Mashiaj"
+    ],
+    "notas": "Mem abierta (מ): Torá revelada. Mem cerrada (ם): periodo oculto."
+  },
+  {
+    "numero": 14,
+    "valorGematrico": 50,
+    "letra": "נ",
+    "transliteracion": "Nun",
+    "nombreEspanol": "Nun",
+    "significados": [
+      "Mashíaj",
+      "Decaer o crecer",
+      "Engaño",
+      "Reino",
+      "Pez",
+      "Aborto",
+      "Milagro"
+    ],
+    "notas": "Nun curvada (נ): Servir con reverencia. Nun recta (ן): se ha levantado."
+  },
+  {
+    "numero": 15,
+    "valorGematrico": 60,
+    "letra": "ס",
+    "transliteracion": "Sámaj, Samech, Samekh",
+    "nombreEspanol": "Samej",
+    "significados": [
+      "Apoyar",
+      "Curar",
+      "Soportar",
+      "Apoyo",
+      "Medicina"
+    ],
+    "notas": "Un círculo cerrado, como anillo de bodas."
+  },
+  {
+    "numero": 16,
+    "valorGematrico": 70,
+    "letra": "ע",
+    "transliteracion": "Ayin",
+    "nombreEspanol": "Ayin",
+    "significados": [
+      "Liderazgo",
+      "Estudiar",
+      "Ojos",
+      "Salvación"
+    ],
+    "notas": "Una vav en una nun, dos ojos conectados al nervio óptico."
+  },
+  {
+    "numero": 17,
+    "valorGematrico": 80,
+    "letra": "פ",
+    "transliteracion": "Fei, Pei",
+    "nombreEspanol": "Fei / Pei",
+    "significados": [
+      "Comunicación",
+      "El nombre",
+      "Boca"
+    ],
+    "notas": "Boca con dientes salientes. Forma sofit: ף."
+  },
+  {
+    "numero": 18,
+    "valorGematrico": 90,
+    "letra": "צ",
+    "transliteracion": "Tzadik, Tsadhe",
+    "nombreEspanol": "Tzadik",
+    "significados": [
+      "Teshuva",
+      "Integridad",
+      "Justo"
+    ],
+    "notas": "Se forma con iud y nun inclinadas. Forma sofit: ץ."
+  },
+  {
+    "numero": 19,
+    "valorGematrico": 100,
+    "letra": "ק",
+    "transliteracion": "Kuf, Qoph",
+    "nombreEspanol": "Kuf",
+    "significados": [
+      "El mono",
+      "Reproducir",
+      "Número de Eva"
+    ],
+    "notas": "Una hei con la pata izquierda, transponiendo la línea de la moral."
+  },
+  {
+    "numero": 20,
+    "valorGematrico": 200,
+    "letra": "ר",
+    "transliteracion": "Resh",
+    "nombreEspanol": "Resh",
+    "significados": [
+      "Maldad",
+      "Iniciar",
+      "Pobre",
+      "Cabeza"
+    ],
+    "notas": "Curvado, carece de la iud de la dálet."
+  },
+  {
+    "numero": 21,
+    "valorGematrico": 300,
+    "letra": "ש",
+    "transliteracion": "Shin, Sin",
+    "nombreEspanol": "Shin",
+    "significados": [
+      "Las Matriarcas",
+      "Repetir",
+      "Dientes",
+      "Firme",
+      "Cambio",
+      "Retorno",
+      "Año"
+    ],
+    "notas": "Tres o cuatro líneas verticales en su forma. Para tefilín, a veces cuatro cabezas."
+  },
+  {
+    "numero": 22,
+    "valorGematrico": 400,
+    "letra": "ת",
+    "transliteracion": "Tav, Tau",
+    "nombreEspanol": "Tav",
+    "significados": [
+      "Perfección",
+      "Reimprimir",
+      "Verdad",
+      "Señal",
+      "Vida",
+      "Muerte"
+    ],
+    "notas": "Combinación de dálet y nun, con tres líneas y una iud."
+  }
+]
